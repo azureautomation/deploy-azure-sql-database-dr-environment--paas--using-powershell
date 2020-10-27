@@ -1,0 +1,20 @@
+{
+    "Author": "baraczof",
+    "ContentSize": 16367,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-azure-sql-database-dr-environment-(paas)-using-powershell/master/Deploy_PaaS_Azure_SQL_Database_DR_Environment.ps1",
+    "DownloadCount": 562,
+    "Id": "Deploy-Azure-SQL-DR-47dfa7f7",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 483,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-3-1T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Use PowerShell to create cloud DR environment using\u00a0Azure SQL Databases (PaaS) and send Email Report with the connection string details.",
+    "Title": "Deploy Azure SQL database DR environment (PaaS) using PowerShell",
+    "UpdatedDate": "2019-3-1T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-azure-sql-database-dr-environment-(paas)-using-powershell",
+    "UserTags": "Powershell, Disaster Recovery, Azure SQL Database"
+}
